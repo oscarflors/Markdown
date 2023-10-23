@@ -1,0 +1,59 @@
+<?xml version="1.0" encoding="UTF-8"?>
+
+<DAW>
+  <primer_curs>
+    <asigantures>
+      <asignatura>
+        <nom>Llenguatges de marques i sistemes de gestió d'informació</nom>
+        <codi>0373</codi>
+        <hores_semanals>3</hores_semanals>
+        <hores_anuals>96</hores_anuals>
+      </asignatura>
+
+      <asignatura>
+        <nom>Sistemes informàtics</nom>
+        <codi>0483</codi>
+        <hores_semanals>5</hores_semanals>
+        <hores_anuals>160</hores_anuals>
+      </asignatura>
+
+      <asignatura>
+        <nom>Bases de Dades</nom>
+        <codi>0484</codi>
+        <hores_semanals>5</hores_semanals>
+        <hores_anuals>160</hores_anuals>
+
+       <asignatura>
+        <nom>Programació</nom>
+        <codi>0485</codi>
+        <hores_semanals>8</hores_semanals>
+        <hores_anuals>256</hores_anuals>
+      </asignatura>
+
+      <asignatura>
+        <nom>Entorns de desenrotllament</nom>
+        <codi>0487</codi>
+        <hores_semanals>3</hores_semanals>
+        <hores_anuals>96</hores_anuals>
+      </asignatura>
+
+      <asignatura>
+        <nom>Formació i Orientació Laboral</nom>
+        <codi>0617</codi>
+        <hores_semanals>3</hores_semanals>
+        <hores_anuals>96</hores_anuals>
+      </asignatura>
+
+      <asignatura>
+        <nom>Anglés Tècnic I-S Horari reservat per a la docència en anglés</nom>
+        <codi>CV0003</codi>
+        <hores_semanals>3</hores_semanals>
+        <hores_anuals>96</hores_anuals>
+      </asignatura>
+
+    </asignatures>
+  </primer_curs>
+
+
+
+</DAW>
