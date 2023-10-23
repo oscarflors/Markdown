@@ -54,6 +54,65 @@
     </asignatures>
   </primer_curs>
 
+  <segon_curs>
+    <asigantures>
+      <asignatura>
+        <nom>Desenrotllament web en entorn client.</nom>
+        <codi>0612</codi>
+        <hores_semanals>7</hores_semanals>
+        <hores_anuals>140</hores_anuals>
+      </asignatura>
 
+    <asignatura>
+        <nom>Desenrotllament web en entorn servidor</nom>
+        <codi>0613</codi>
+        <hores_semanals>8</hores_semanals>
+        <hores_anuals>160</hores_anuals>
+      </asignatura>
+
+      <asignatura>
+        <nom>Desplegament d'aplicacions web</nom>
+        <codi>0614</codi>
+        <hores_semanals>4</hores_semanals>
+        <hores_anuals>80</hores_anuals>
+      </asignatura>
+
+      <asignatura>
+        <nom>Disseny d'interfícies web</nom>
+        <codi>0615</codi>
+        <hores_semanals>6</hores_semanals>
+        <hores_anuals>120</hores_anuals>
+      </asignatura>
+
+      <asignatura>
+        <nom>Empresa i iniciativa emprenedora</nom>
+        <codi>0618</codi>
+        <hores_semanals>6</hores_semanals>
+        <hores_anuals>120</hores_anuals>
+      </asignatura>
+
+      <asignatura>
+        <nom>Anglés Tècnic II-S Horari reservat per a la docència en anglés</nom>
+        <codi>CV0004</codi>
+        <hores_semanals>2</hores_semanals>
+        <hores_anuals>40</hores_anuals>
+      </asignatura>
+
+      <asignatura>
+        <nom>Projecte de Desenrotllament d'aplicacions web</nom>
+        <codi>0616</codi>
+        <hores_semanals></hores_semanals>
+        <hores_anuals>40</hores_anuals>
+      </asignatura>
+
+      <asignatura>
+        <nom>Formació en Centres de Treball</nom>
+        <codi>0619</codi>
+        <hores_semanals></hores_semanals>
+        <hores_anuals>400</hores_anuals>
+      </asignatura>
+
+    </asignatures>
+  </segon_curs>
 
 </DAW>
